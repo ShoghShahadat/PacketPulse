@@ -1,6 +1,6 @@
-# ProxyPin
+# PacketPulse
 
-English | [中文](README.md)
+English | [فارسی](README.md)
 ## Open source free packet capture tool，Support Windows、Mac、Android、IOS、Linux Full platform system
 You can use it to intercept, inspect & rewrite HTTP(S) traffic, ProxyPin is based on Flutter develop, and the UI is beautiful
 and easy to use.
