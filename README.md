@@ -1,4 +1,4 @@
-# ProxyPin
+# PacketPulse
 
 [English](README_EN.md) | فارسی
 
